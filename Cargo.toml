@@ -1,3 +1,5 @@
+#![windows-subsystem = "console"]
+
 [package]
 name = "wordle-guesser"
 version = "0.1.0"

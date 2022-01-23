@@ -90,8 +90,6 @@ fn main() {
                 }
             }
 
-            println!("letters: {:?}", letters_guessed);
-
             // Remove all those words that don't have the letters we need
             words.retain(|x| {
                 let mut contained = true;
