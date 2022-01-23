@@ -1,2 +1,2 @@
 # wordle-guesser
-Tool for solving the Wordle game
+A console based tool for solving the [Wordle](https://www.powerlanguage.co.uk/wordle/) puzzle game. Simply type in your guesses in order and mark each letter as either in the word but in the wrong position, in the word and in the right position, or not in the word. The software will then prune its word list to match those parameters and offer possible words. It should be able to solve the puzzle almost every time.
